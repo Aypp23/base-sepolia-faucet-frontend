@@ -173,7 +173,7 @@ const Index = () => {
                   <div className="flex justify-center">
                     <ReCAPTCHA
                       ref={recaptchaRef}
-                      sitekey="YOUR_SITE_KEY_HERE" // Replace with your actual site key
+                      sitekey="6LePiJ4rAAAAAINk-mwC2Eb0VHYLqZmHXcGQkE4x"
                       onChange={handleCaptchaChange}
                     />
                   </div>
